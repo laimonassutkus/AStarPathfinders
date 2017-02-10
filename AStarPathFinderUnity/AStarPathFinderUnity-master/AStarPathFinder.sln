@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6851A8BE-FAA4-B556-9658-96CAE2BCE4AE}") = "AStarPathFinder", "Assembly-CSharp.csproj", "{6A341C6A-D06C-C49F-9717-194367126E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A341C6A-D06C-C49F-9717-194367126E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A341C6A-D06C-C49F-9717-194367126E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A341C6A-D06C-C49F-9717-194367126E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A341C6A-D06C-C49F-9717-194367126E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
